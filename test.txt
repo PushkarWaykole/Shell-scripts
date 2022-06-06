@@ -1,0 +1,30 @@
+<i class="<style>
+    <i class="<i class="<i class="<i class="<i class="<i class="<i class="<i class="<i class="fa fa-sort-descsd
+    ds
+    " aria-hidden="true"></i> fa-swords    "></i> fa-dice-six    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i> {
+        position: relative;
+    }
+</style>
+
+<<i class="<i class="<i class="<i class="<i class="<i class="<i class="<i class="<i class="fa fa-sort-descsd
+ds
+" aria-hidden="true"></i> fa-swords    "></i> fa-dice-six    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i> data-spy="scroll" data-target="#navId">
+    
+    <div id="navId">
+        <ul class="nav nav-tabs" role="tablist">
+            
+        </ul>
+    </div>
+    
+</<i class="<i class="<i class="<i class="<i class="<i class="<i class="<i class="<i class="fa fa-sort-descsd
+ds
+" aria-hidden="true"></i> fa-swords    "></i> fa-dice-six    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i>>
+
+
+<script>
+    $('<i class="<i class="<i class="<i class="<i class="<i class="<i class="<i class="<i class="fa fa-sort-descsd
+    ds
+    " aria-hidden="true"></i> fa-swords    "></i> fa-dice-six    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i> fa-star-of-david    "></i>{1:div|body}').scrollspy({
+        target: '#navId'
+    });
+</script> fa-star-of-david    "></i>
